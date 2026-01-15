@@ -1,7 +1,7 @@
 <img width="1888" height="479" alt="Intro Banner" src="https://github.com/user-attachments/assets/1462146e-603e-4c01-8074-9522490c8a01" />
 
 <h1 align="center">Hi 👋, I'm Katheeja Fathima</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 
